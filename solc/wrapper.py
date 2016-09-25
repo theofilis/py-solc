@@ -2,7 +2,7 @@ from __future__ import absolute_import
 
 import os
 
-from gevent import subprocess
+import subprocess
 
 import textwrap
 
